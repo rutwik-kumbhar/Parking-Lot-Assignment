@@ -52,7 +52,7 @@ parking_Managment_System/
 - **Main.java**: This is the main entry point of the application.
 
 ## Setup
-Install Java Development Kit (JDK):
-Set up an Integrated Development Environment (IDE)
+- Install Java Development Kit (JDK):
+- Set up an Integrated Development Environment (IDE)
 
     
